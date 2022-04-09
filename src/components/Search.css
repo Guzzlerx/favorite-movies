@@ -1,0 +1,11 @@
+.button-search {
+	position: absolute;
+	top: 0;
+	right: .5rem;
+}
+
+.checkbox {
+	opacity: 1;
+	width: 20px;
+	height: 20px;
+}
