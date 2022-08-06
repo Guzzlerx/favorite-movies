@@ -12,7 +12,7 @@ _Реализовано взаимодействие с внешним API. До
 
 ## Стек: :wrench:
 
-_React, React Hooks, JavaScript, CSS, HTML, Webpack, Git_
+_React, React Hooks, JavaScript, CSS, HTML, Webpack, Git._
 
 ## Возможные доработки/улучшения: :construction:
 
